@@ -34,7 +34,7 @@ export const StyledUl = styled.ul`
   /* padding: 0;
   margin-bottom: 0; */
   border-radius: 0 0 10px 10px;
-  background-color: #97d4e5;
+  background-color: #cecece;
   & > li {
     display: flex;
     flex-direction: column;
